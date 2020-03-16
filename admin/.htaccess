@@ -1,0 +1,7 @@
+AuthName "Вход для администратора"
+
+AuthType Basic
+
+AuthUserFile /home/kingdo06/kingdomofgodkivertsi.volyn.ua/www/ShErEnbRIUmenBoTictOnFemiDEctu/.htpasswd
+
+require valid-user
